@@ -1,0 +1,14 @@
+{
+  "name": "stripe-payments-integration",
+  "version": "1.0.0",
+  "description": "Full-featured Stripe integration: subscriptions, webhooks, and billing portal",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest --coverage",
+    "lint": "eslint src/"
+  },
+  "keywords": [],
+  "author": "superdev1211",
+  "license": "MIT"
+}
